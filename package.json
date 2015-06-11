@@ -1,0 +1,11 @@
+{
+	"name": "iswindow",
+	"description": "Checks whether value is a window object.",
+	"version": "1.0.0",
+	"keywords": [
+		"is",
+		"window"
+	],
+	"main": "index.js",
+	"license": "MIT"
+}
